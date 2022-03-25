@@ -43,6 +43,7 @@ Created by Tommaso Barbiero on 23/03/22.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/tommasobarbiero9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tommasobarbiero9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
