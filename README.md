@@ -24,7 +24,7 @@ Created by Tommaso Barbiero on 23/03/22.
         
         Premade Vapor App https://rb.gy/w3dnlj
         
-        Homebrew https://brew.sh 
+        [Homebrew](https://brew.sh)
         
         Vapor Documentation https://docs.vapor.codes/4.0/
         Vapor Download https://docs.vapor.codes/4.0/install/... 
