@@ -24,8 +24,6 @@ Created by Tommaso Barbiero on 23/03/22.
         
         Premade Vapor App https://rb.gy/w3dnlj
         
-        <a href="https://brew.sh/" target="blank">
-        
         Homebrew https://brew.sh
         
         Vapor Documentation https://docs.vapor.codes/4.0/
