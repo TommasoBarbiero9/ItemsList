@@ -24,12 +24,19 @@ Created by Tommaso Barbiero on 23/03/22.
         
         Premade Vapor App https://rb.gy/w3dnlj
     Homebrew [https://brew.sh](https://brew.sh)
+    
     Vapor Documentation [https://docs.vapor.codes/4.0/](https://docs.vapor.codes/4.0/)
+    
     Vapor Download [https://docs.vapor.codes/4.0/install/... ](https://docs.vapor.codes/4.0/install/... )
+    
     Docker Desktop [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/)
+    
     Postico (to directly work on your db through a simple UI) [https://eggerapps.at/postico/](https://eggerapps.at/postico/)
+    
     Insomnia (to manage REST APIs on your db) [https://insomnia.rest/products/insomnia](https://insomnia.rest/products/insomnia)
+    
     NGrok (use this to port forward and get the url of your db) [https://ngrok.com/download](https://ngrok.com/download)
+    
     Getting Started With Vapor Guide from CodeWithChris YT Channel [https://rb.gy/iupyk1](https://rb.gy/iupyk1)
         
 
