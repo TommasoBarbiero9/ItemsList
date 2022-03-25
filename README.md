@@ -22,7 +22,8 @@ Created by Tommaso Barbiero on 23/03/22.
         
         You can find links to all the documentation/websites you may need here:
         
-        Premade Vapor App https://rb.gy/w3dnlj
+    Premade Vapor App [https://rb.gy/w3dnlj](https://rb.gy/w3dnlj)
+    
     Homebrew [https://brew.sh](https://brew.sh)
     
     Vapor Documentation [https://docs.vapor.codes/4.0/](https://docs.vapor.codes/4.0/)
