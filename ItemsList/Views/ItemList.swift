@@ -20,7 +20,7 @@ struct ItemList: View {
                     Button {
                         modal = .update(item)
                     } label: {
-                        Text(item.title ?? "boh")
+                        Text(item.title ?? "")
                             .font(.title3)
                             .foregroundColor(Color(.label))
                     }

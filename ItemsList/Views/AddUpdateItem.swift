@@ -28,9 +28,10 @@ struct AddUpdateItem: View {
         }
     }
 }
-//
+
+
 //struct AddUpdateItem_Preview: PreviewProvider {
 //    static var previews: some View {
-//        AddUpdateItem(viewModel: AddUpdateItemViewModel)
+//        AddUpdateItem(viewModel: AddUpdateItemViewModel())
 //    }
 //}
