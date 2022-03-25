@@ -2,7 +2,8 @@
 
 Created by Tommaso Barbiero on 23/03/22.
 
-                  coverage
+             
+        https://img.shields.io/badge/<Frameworks used>-<Vapor 4.0>-<yellowgreen>
 
 <h1 align="center">Hi 👋, I'm Tommaso Barbiero</h1>
 <h3 align="center">A passionate developer from Italy</h3>
